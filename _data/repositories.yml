@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ssen7
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ssen7/billboards-crawler
+  - ssen7/wsi_stain_transfer
+  - ssen7/bayesian_cnn
+  - ssen7/rl-drawing-agent
